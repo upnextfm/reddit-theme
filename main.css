@@ -96,7 +96,7 @@ button:active {
 }
 #header {
   margin: 0;
-  height: 196px;
+  height: 207px;
   border: none;
   background-color: #30333A;
   background-image: url(%%headerimg%%);
@@ -1353,13 +1353,13 @@ div.commentarea div.RES-keyNav-activeElement .md {
   margin: 0 0 16px;
 }
 .side:before {
-  height: 192px;
+  height: 208px;
   background-image: url(%%sidebarimg%%);
   background-color: #DBDBDB;
   content: "";
   display: block;
   position: absolute;
-  top: 100px;
+  top: 84px;
   width: 320px;
   z-index: 1;
   border-radius: 2px;
